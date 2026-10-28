@@ -2,7 +2,7 @@
 
 O GymSky é um projeto de landing page para uma academia hipotética, desenvolvido com um conceito visual moderno e focado em tons de azul e preto. O foco foi aprender e reforçar técnicas de aprendizado web, integrando design de interface no Figma com a implementação em código (HTML5 e CSS3).
 
-![Imagem do projeto](./img/banner.png)
+<img src="./img/banner.png" alt="Imagem do projeto" width="100%">
 
 ## Tecnologias Utilizadas
 
