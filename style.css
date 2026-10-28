@@ -9,8 +9,7 @@
 }
 
 body {
-    background-color: #000;
-    color: #fff;
+    background-color: #02022c;
     overflow-x: hidden;
 }
 
@@ -59,7 +58,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('img/background.svg'); 
+    background: linear-gradient(rgba(0, 0, 0, 0.445), rgba(0, 0, 0, 0.527)), url('img/background.svg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -80,7 +79,7 @@ body {
     width: 500px;
     height: auto;
     margin-bottom: -100px;
-    filter: drop-shadow(0 0 25px rgba(7, 17, 39, 0.637));
+    filter: drop-shadow(0 0 25px #071127a2);
 }
 
 .hero h1 {
